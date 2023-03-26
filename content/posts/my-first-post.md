@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2023-03-26T18:02:52-03:00
-draft: true
+draft: false
 ---
 
 ## Lorem Ipsum

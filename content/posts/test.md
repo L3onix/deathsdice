@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2023-03-26T18:56:55-03:00
-draft: true
+draft: false
 ---
 
 ## Lorem Ipsum
