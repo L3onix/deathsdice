@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Death&#39;s Dice</title>
-    <link>http://deathsdice.com/categories/</link>
+    <link>https://l3onix.github.io/deathsdice/categories/</link>
     <description>Recent content in Categories on Death&#39;s Dice</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://deathsdice.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://l3onix.github.io/deathsdice/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
