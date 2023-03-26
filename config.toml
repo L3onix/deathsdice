@@ -1,0 +1,4 @@
+baseURL = "http://deathsdice.com/"
+languageCode = "pt-br"
+title = "Death's Dice"
+theme = "PaperMod"

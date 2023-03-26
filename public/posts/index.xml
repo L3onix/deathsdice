@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Death&#39;s Dice</title>
+    <link>http://deathsdice.com/posts/</link>
+    <description>Recent content in Posts on Death&#39;s Dice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 26 Mar 2023 18:02:52 -0300</lastBuildDate><atom:link href="http://deathsdice.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://deathsdice.com/posts/my-first-post/</link>
+      <pubDate>Sun, 26 Mar 2023 18:02:52 -0300</pubDate>
+      
+      <guid>http://deathsdice.com/posts/my-first-post/</guid>
+      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec dolor a lectus aliquam sollicitudin eget non lectus. Sed consequat ligula a augue feugiat, sed sagittis risus ornare. Nullam urna augue, lacinia ac dui non, congue laoreet massa. Sed non turpis aliquet lorem dapibus vehicula. In a diam ac dolor dignissim tempor. Duis bibendum arcu eget turpis suscipit, nec hendrerit dui fringilla. Praesent congue erat at leo accumsan aliquet.</description>
+    </item>
+    
+  </channel>
+</rss>
